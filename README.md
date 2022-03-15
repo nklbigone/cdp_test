@@ -1,1 +1,0 @@
-# JavaScript学習用
